@@ -1,0 +1,10 @@
+READ ME
+
+Sorry this game is not able to be published to the web.  But this allows you to be able to play it whenever 
+without going online!
+To start the game, just click the unity application in the folder you just downloaded.
+Then play!
+Make sure not to touch the files or otherwise it will not work.
+
+Thanks and hope you enjoy The Maze
+- Landen F.
